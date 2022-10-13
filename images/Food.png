@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)https://reverent-yalow-9a3f24.netlify.app/#pricing -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Food_files/index.css">
+    <script defer="" src="./Food_files/index.js"></script>
+    <title>Food</title>
+  </head>
+  <body>
+    <!--Header-->
+    <a class="scroll-top" href="https://reverent-yalow-9a3f24.netlify.app/#">Scroll to top ↑</a>
+    <header class="header sticky">
+      <a class="logo" href="https://reverent-yalow-9a3f24.netlify.app/#"><img src="./Food_files/logo.png" alt="Image"></a>
+      <nav class="main-nav">
+        <ul>
+          <li><a class="link" href="https://reverent-yalow-9a3f24.netlify.app/#how">How it works</a></li>
+          <li><a class="link" href="https://reverent-yalow-9a3f24.netlify.app/#meal">Meals</a></li>
+          <li><a class="link" href="https://reverent-yalow-9a3f24.netlify.app/#tes">Testimonials</a></li>
+          <li><a class="link" href="https://reverent-yalow-9a3f24.netlify.app/#pricing">Pricing</a></li>
+          <li><a class="free" href="https://reverent-yalow-9a3f24.netlify.app/#cta">Try for free</a></li>
+        </ul>
+      </nav>
+      <div class="toggle">☰</div>
+    </header>
+
+    <main>
+      <section class="section-hero" id="hero">
+        <div class="hero">
+          <div class="hero-text-box">
+            <h1 class="heading-primary">
+              A healthy meal delivered to your door, every single day
+            </h1>
+            <p class="description">
+              The smart 365-days-per-year food subscription that will make you
+              eat healthy again. Tailored to your personal tastes and
+              nutritional needs.
+            </p>
+            <div class="eat-well">
+              <a class="start-eat-well" href="https://reverent-yalow-9a3f24.netlify.app/#">Start eating well</a>
+              <a class="learn-more" href="https://reverent-yalow-9a3f24.netlify.app/#">Learn more</a>
+            </div>
+          </div>
+          <div class="hero-img-box">
+            <img class="hero-img" src="./Food_files/hero.webp" alt="">
+          </div>
+        </div>
+      </section>
+
+      <section class="section-featured" id="featured">
+        <div class="container">
+          <h2 class="featured">As featured in</h2>
+          <div class="logos">
+            <img src="./Food_files/logo1.png" alt="">
+            <img src="./Food_files/logo2.png" alt="">
+            <img src="./Food_files/logo3.png" alt="">
+            <img src="./Food_files/logo4.png" alt="">
+            <img src="./Food_files/logo5.png" alt="">
+          </div>
+        </div>
+      </section>
+
+      <section class="section-how" id="how">
+        <div class="container">
+          <span class="subheading"> HOW IT WORKS </span>
+          <h1 class="heading-secondry">
+            Your daily dose of health in 3 simple steps
+          </h1>
+        </div>
+        <div class="container grid grid--2--cols grid-center-v">
+          <div class="step-text-box">
+            <p class="step-number">01</p>
+            <h3 class="heading-tertiary">
+              Tell us what you like (and what not)
+            </h3>
+            <p class="step-description">
+              Never again waste time thinking about what to eat! Omnifood AI
+              will create a 100% personalized weekly meal plan just for you. It
+              makes sure you get all the nutrients and vitamins you need, no
+              matter what diet you follow!
+            </p>
+          </div>
+          <div class="step-img-box">
+            <img src="./Food_files/text-box1.png" alt="">
+          </div>
+
+          <div class="step-img-box">
+            <img src="./Food_files/text-box2.png" alt="">
+          </div>
+          <div class="step-text-box">
+            <p class="step-number">02</p>
+            <h3 class="heading-tertiary">Approve your weekly meal plan</h3>
+            <p class="step-description">
+              Once per week, approve the meal plan generated for you by Omnifood
+              AI. You can change ingredients, swap entire meals, or even add
+              your own recipes.
+            </p>
+          </div>
+
+          <div class="step-text-box">
+            <p class="step-number">03</p>
+            <h3 class="heading-tertiary">Receive meals at convenient time</h3>
+            <p class="step-description">
+              Best chefs in town will cook your selected meal every day, and we
+              will deliver it to your door whenever works best for you. You can
+              change delivery schedule and address daily!
+            </p>
+          </div>
+          <div class="step-img-box">
+            <img src="./Food_files/text-box3.png" alt="">
+          </div>
+        </div>
+      </section>
+
+      <section class="section-meal" id="meal">
+        <div class="container center">
+          <span class="subheading"> MEALS </span>
+          <h2 class="heading-secondry">
+            Omnifood AI chooses from 5,000+ recipes
+          </h2>
+        </div>
+        <div class="container grid grid--3--cols gap">
+          <div class="meal">
+            <img src="./Food_files/meal-1.jpg" alt="">
+            <div class="meal-content">
+              <div class="meal-tags">
+                <span class="tag tag--vegetarian"> VEGETARIAN </span>
+              </div>
+              <p class="meal-title">Japanese Gyozas</p>
+              <ul class="meal-attributes">
+                <li class="meal-attribute">650 calories</li>
+                <li class="meal-attribute">NutriScore ® 74</li>
+                <li class="meal-attribute">4.9 rating (537)</li>
+              </ul>
+            </div>
+          </div>
+          <div class="meal">
+            <img src="./Food_files/meal-2.jpg" alt="">
+            <div class="meal-content">
+              <div class="meal-tags">
+                <span class="tag tag--vegan"> VEGAN </span>
+                <span class="tag tag--paleo"> PALEO </span>
+              </div>
+              <p class="meal-title">Avocado Salad</p>
+              <ul class="meal-attributes">
+                <li class="meal-attribute">450 calories</li>
+                <li class="meal-attribute">NutriScore ® 92</li>
+                <li class="meal-attribute">4.5 rating (577)</li>
+              </ul>
+            </div>
+          </div>
+          <div class="deits">
+            <h3 class="heading-tertiary">Works with any diet:</h3>
+            <ul class="items">
+              <li class="item">Vegetarian</li>
+              <li class="item">Vegan</li>
+              <li class="item">Pescatarian</li>
+              <li class="item">Gluten-free</li>
+              <li class="item">Lactose-free</li>
+              <li class="item">Keto</li>
+              <li class="item">Paleo</li>
+              <li class="item">Low FODMAP</li>
+              <li class="item">Kid-friendly</li>
+            </ul>
+          </div>
+        </div>
+        <div class="container all-recipes">
+          <a href="https://reverent-yalow-9a3f24.netlify.app/#">See all recipes →</a>
+        </div>
+      </section>
+
+      <section class="section-testimonials" id="tes">
+        <div class="testimonial-container">
+          <span class="subheading">TESTIMONIALS</span>
+          <h2 class="heading-secondry">Once you try it, you can't go back</h2>
+          <div class="testimonials"><div class="testimonial">
+        <img src="./Food_files/dave.jpg" alt="">
+        <p>Inexpensive, healthy and great-tasting meals, without even having to order manually! It feels truly magical.</p>
+        <h6> -Dave Bryson</h6></div><div class="testimonial">
+        <img src="./Food_files/ben.jpg" alt="">
+        <p> The AI algorithm is crazy good, it chooses the right meals for me every time. It's amazing not to worry about food anymore!</p>
+        <h6> -Ben Hadley</h6></div><div class="testimonial">
+        <img src="./Food_files/steve.jpg" alt="">
+        <p>Omnifood is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now!</p>
+        <h6> -Steve Miller</h6></div><div class="testimonial">
+        <img src="./Food_files/hannah.jpg" alt="">
+        <p>I got Omnifood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic.</p>
+        <h6> -Hannah Smith</h6></div></div>
+        </div>
+        <div class="gallery"><img src="./Food_files/gallery-1.jpg" class="gallary-item"><img src="./Food_files/gallery-2.jpg" class="gallary-item"><img src="./Food_files/gallery-3.jpg" class="gallary-item"><img src="./Food_files/gallery-4.jpg" class="gallary-item"><img src="./Food_files/gallery-5.jpg" class="gallary-item"><img src="./Food_files/gallery-6.jpg" class="gallary-item"><img src="./Food_files/gallery-7.jpg" class="gallary-item"><img src="./Food_files/gallery-8.jpg" class="gallary-item"><img src="./Food_files/gallery-9.jpg" class="gallary-item"><img src="./Food_files/gallery-10.jpg" class="gallary-item"><img src="./Food_files/gallery-11.jpg" class="gallary-item"><img src="./Food_files/gallery-12.jpg" class="gallary-item"></div>
+      </section>
+
+      <section class="section-pricing" id="pricing">
+        <div class="container">
+          <span class="subheading">PRICING</span>
+          <h2 class="heading-secondry">
+            Eating well without breaking the bank
+          </h2>
+        </div>
+        <div class="container grid grid--2--cols gap">
+          <div class="pricing-plan pricing-plan--starter">
+            <header class="plan-header">
+              <p class="plan-name">Starter</p>
+              <p class="plan-price">
+                <span>$</span>
+                399
+              </p>
+              <p class="plan-text">per month. That's just $13 per meal!</p>
+            </header>
+            <ul class="list">
+              <li class="list-item"><span> ✓</span> 1 meal per day</li>
+              <li class="list-item">
+                <span> ✓</span> Order from 11am to 9pm
+              </li>
+              <li class="list-item"><span> ✓</span> Delivery is free</li>
+              <li class="list-item"><span>✗</span></li>
+            </ul>
+            <div class="plan-sign-up">
+              <a href="https://reverent-yalow-9a3f24.netlify.app/#" class="btn btn-full">Start eating well</a>
+            </div>
+          </div>
+          <div class="pricing-plan pricing-plan--complete">
+            <header class="plan-header">
+              <p class="plan-name">Complete</p>
+              <p class="plan-price">
+                <span>$</span>
+                649
+              </p>
+              <p class="plan-text">per month. That's just $11 per meal!</p>
+            </header>
+            <ul class="list">
+              <li class="list-item"><span> ✓</span> 2 meal per day</li>
+              <li class="list-item"><span> ✓</span> Order 24/7</li>
+              <li class="list-item"><span> ✓</span> Delivery is free</li>
+              <li class="list-item">
+                <span> ✓</span>Get access to latest recipes
+              </li>
+            </ul>
+            <div class="plan-sign-up">
+              <a href="https://reverent-yalow-9a3f24.netlify.app/#" class="btn btn-full">Start eating well</a>
+            </div>
+          </div>
+        </div>
+        <div class="container gap">
+          <aside class="plan-detail">
+            Prices include all applicable taxes. You can cancel at any time.
+            Both plans include the following:
+          </aside>
+        </div>
+        <div class="container grid grid--4--cols">
+          <div class="features">
+            <p class="feature-icon"><i>∞</i></p>
+            <p class="feature-title">Never cook again!</p>
+            <p class="feature-text">
+              Our subscriptions cover 365 days per year, even including major
+              holidays.
+            </p>
+          </div>
+          <div class="features">
+            <p class="feature-icon">
+              <img src="./Food_files/apple.png">
+            </p>
+            <p class="feature-title">Local and organic</p>
+            <p class="feature-text">
+              Our cooks only use local, fresh, and organic products to prepare
+              your meals.
+            </p>
+          </div>
+          <div class="features">
+            <p class="feature-icon">
+              <img src="./Food_files/leaf--v1.png">
+            </p>
+            <p class="feature-title">No waste</p>
+            <p class="feature-text">
+              All our partners only use reusable containers to package all your
+              meals.
+            </p>
+          </div>
+          <div class="features">
+            <p class="feature-icon">
+              <img src="./Food_files/pause--v1.png">
+            </p>
+            <p class="feature-title">Pause anytime</p>
+            <p class="feature-text">
+              Going on vacation? Just pause your subscription, and we refund
+              unused days.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-cta " id="cta">
+        <div class="container">
+          <div class="cta">
+            <div class="cta-text-box">
+              <h2 class="heading-secondry1">Get your first meal for free!</h2>
+              <p class="cta-text">
+                Healthy, tasty and hassle-free meals are waiting for you. Start
+                eating well today. You can cancel or pause anytime. And the
+                first meal is on us!
+              </p>
+              <form action="https://reverent-yalow-9a3f24.netlify.app/#" class="cta-form">
+                <div>
+                  <label>Full Name</label>
+                  <input type="text" required="">
+                </div>
+                <div>
+                  <label>Email</label>
+                  <input type="email" required="">
+                </div>
+                <div>
+                  <label>Where did you hear about us?</label>
+                  <input type="text" required="">
+                </div>
+                <button class="btn btn--form">Sign up now</button>
+              </form>
+            </div>
+            <div class="cta-img-box"></div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <div class="container grid grid--footer">
+          <div class="logo-col">
+            <a href="https://reverent-yalow-9a3f24.netlify.app/#" class="footer-logo">
+              <img src="./Food_files/logo.png" alt="" class="logo">
+            </a>
+            <ul class="social-links">
+              <li><a href="https://reverent-yalow-9a3f24.netlify.app/#" class="footer-link">logo</a></li>
+              <li><a href="https://reverent-yalow-9a3f24.netlify.app/#" class="footer-link">logo</a></li>
+              <li><a href="https://reverent-yalow-9a3f24.netlify.app/#" class="footer-link">logo</a></li>
+            </ul>
+            <p class="copyright">
+              Copyright © 2022 by Omnifood, Inc. All rights reserved.
+            </p>
+          </div>
+          <div class="address-col">
+            <p class="footer-heading">Contact us</p>
+            <address class="contacts">
+              <p class="address">
+                623 Harrison St., 2nd Floor, San Francisco, CA 94107
+              </p>
+              <p>415-201-6370</p>
+              <p>hello@omnifood.com</p>
+            </address>
+          </div>
+          <div class="nav-col">
+            <p class="footer-heading">Account</p>
+            <ul class="footer-nav">
+              <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Create account</a></li>
+              <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Sign in</a></li>
+              <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">iOS app</a></li>
+              <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Android app</a></li>
+            </ul>
+          </div>
+          <div class="nav-col">
+            <p class="footer-heading">Company</p>
+            <ul class="footer-nav">
+                <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">About Omnifood</a></li>
+                <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">For Business</a></li>
+                <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Cooking partners</a></li>
+                <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Careers</a></li>
+              </ul>
+          </div>
+          <div class="nav-col">
+            <p class="footer-heading">Resources</p>
+            <ul class="footer-nav">
+                <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Recipe directory</a></li>
+                <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Help center</a></li>
+                <li><a href="https://reverent-yalow-9a3f24.netlify.app/" class="footer-link">Privacy &amp; terms</a></li>
+              </ul>
+          </div>
+          </div>
+        
+      </footer>
+    </main>
+  
+
+</body></html>
